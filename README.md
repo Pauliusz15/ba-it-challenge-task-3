@@ -1,2 +1,3 @@
-# ba-it-challenge-task-3
-Database model of a library
+# Third task of BA IT Challenge
+
+## Database model of a library
